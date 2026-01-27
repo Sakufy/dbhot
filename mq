@@ -1,0 +1,42 @@
+[33mcommit dc1db7317c001e46e98b0f05fd0555452f36900a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0680f4f 383008f
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Tue Jan 27 08:38:09 2026 +0800
+
+    C：bug与商城功能合并
+
+[33mcommit 383008f3e49d7bf92aebe6ef6e9be5ad2878a3ab[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Tue Jan 27 08:27:02 2026 +0800
+
+    C6：商城开发完毕
+
+[33mcommit 0680f4fe904466d2860587e4ca1d4e6494ec9cd8[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Tue Jan 27 08:22:25 2026 +0800
+
+    C5
+
+[33mcommit 73190ccd10926ef26d355ccd9871d25953ed13f9[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Tue Jan 27 08:17:14 2026 +0800
+
+    C4
+
+[33mcommit fd0e47b24447b02349d26ec6dde0a62238b7c682[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Mon Jan 26 18:50:21 2026 +0800
+
+    V2
+
+[33mcommit 718fea08e431dbd0f2d1a558650549d89c9c2007[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Mon Jan 26 17:31:42 2026 +0800
+
+    V2
+
+[33mcommit 7d77396cf90b9ca7710d03c5c017afca33b88fa0[m
+Author: Lu Xingbei <2634856820@qq.com>
+Date:   Mon Jan 26 17:28:38 2026 +0800
+
+    第一版本
